@@ -1,0 +1,31 @@
+:root {
+  --link: #1a7ce8;
+  --text1-light: #000000;
+  --text1-dark: #f0f0f0;
+  --text2-light: #505867;
+  --text2-dark: #505867;
+  --text3-light: #1d2bc7;
+  --text3-dark: #1a7ce8;
+  --theme0-light: #ffffff;
+  --theme0-dark: #000000;
+  --theme1-light: #dddddd;
+  --theme1-dark: #252525;
+  --theme2-light: #42464e;
+  --theme2-dark: #888e9b;
+  --theme3-light: #42464e1a;
+  --theme3-dark: #ffffff66;
+  --theme4-light: #42464e0d;
+  --theme4-dark: #d3d3d333;
+  --paper-bg-light: url(assets/images/white_dotted_paper_sqr_bg.jpg);
+  --paper-bg-dark: url(assets/images/white_dotted_paper_sqr_bg_dark.jpg);
+
+  --text1: var(--text1-light);
+  --text2: var(--text2-light);
+  --text3: var(--text3-light);
+  --theme0: var(--theme0-light);
+  --theme1: var(--theme1-light);
+  --theme2: var(--theme2-light);
+  --theme3: var(--theme3-light);
+  --theme4: var(--theme4-light);
+  --paper-bg: var(--paper-bg-light);
+}
