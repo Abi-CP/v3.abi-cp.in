@@ -42,6 +42,12 @@
     });
 
     swiper.slideTo(navigateToIndex, 0);
+
+    window.addEventListener("popstate", () => {
+      path = window.location.pathname.split("/")[1];
+      navigateToIndex = slides.indexOf(path);
+      swiper.slideTo(navigateToIndex, 0);
+    });
   });
 
   function goToSlide() {

@@ -133,9 +133,9 @@
     position: relative;
     height: 32px;
     max-width: fit-content;
-    background: #111;
+    background: #000;
     font-size: 0;
-    box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.1);
+    /* box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.1); */
     scroll-snap-type: x mandatory; /* Enable snap scrolling */
     /* padding: 0 10px; Add padding to adjust spacing as needed */
   }
