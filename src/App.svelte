@@ -13,20 +13,24 @@
 
   let swiper;
   let currentSlideIndex = 0;
+  let navigateToIndex = 0;
 
-  let slides = ["", "about", "projects", "blogs", "contact"];
+  let slides;
+
 
   onMount(() => {
+    let path = window.location.pathname.split("/")[1];
+    slides = ["/", "about", "projects", "blogs", "contact"];
+    navigateToIndex = slides.indexOf(path);
+
     swiper = new Swiper(".swiper", {
       modules: [EffectCreative],
       effect: "creative",
       creativeEffect: {
         prev: {
-          // will set `translateZ(-400px)` on previous slides
           translate: [0, 0, -400],
         },
         next: {
-          // will set `translateX(100%)` on next slides
           translate: ["100%", 0, 0],
         },
       },
@@ -34,12 +38,14 @@
 
     swiper.on("slideChange", () => {
       currentSlideIndex = swiper.activeIndex;
-      window.location.pathname = "/" + slides[currentSlideIndex];
+      window.history.pushState({}, "", slides[currentSlideIndex]);
     });
+
+    swiper.slideTo(navigateToIndex, 0);
   });
 
-  function goToSlide(toIndex) {
-    swiper.slideTo(toIndex);
+  function goToSlide() {
+    swiper.slideTo(navigateToIndex);
   }
 </script>
 
@@ -52,16 +58,25 @@
     <div class="swiper-slide"><Contact /></div>
   </div>
 </div>
-<div class="nav-container w100"><BottomNav /></div>
+
+<div class="bottom-nav-container w100">
+  <BottomNav
+    navigateToSelected={goToSlide}
+    bind:currentSlideIndex
+    bind:navigateToIndex
+  />
+</div>
 
 <style>
   .swiper {
     width: 100dvw;
     width: 100vw;
-    height: calc(100dvh - 24px);
+    /* max-height: calc(100% - 33px);
+    max-height: calc(100dvh - 33px); */
     position: fixed;
     top: 0;
     left: 0;
+    /* overflow: auto; */
   }
 
   .swiper-slide {
@@ -71,11 +86,13 @@
     font-size: 22px;
     font-weight: bold;
     color: #fff;
+    min-height: calc(100dvh - 33px);
   }
-  .nav-container{
+  .bottom-nav-container {
     position: fixed;
     bottom: 0;
     left: 0;
-
+    width: 100vw;
+    background: #000;
   }
 </style>

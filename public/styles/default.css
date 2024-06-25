@@ -86,3 +86,11 @@
 .h100 {
   height: 100%;
 }
+
+.rmvBtnStyle {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  outline: none;
+}
