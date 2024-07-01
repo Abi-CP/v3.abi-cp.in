@@ -133,7 +133,7 @@
     position: relative;
     height: 32px;
     max-width: fit-content;
-    background: #000;
+    background: var(--theme0);
     font-size: 0;
     /* box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.1); */
     scroll-snap-type: x mandatory; /* Enable snap scrolling */
@@ -143,7 +143,7 @@
   .item {
     font-size: 0.8rem;
     text-transform: uppercase;
-    color: #ffffff99;
+    color: var(--nav-item-color);
     font-weight: 500;
     text-decoration: none;
     position: relative;
@@ -159,11 +159,11 @@
   }
 
   .item:hover {
-    color: #ffffffee;
+    color: var(--nav-item-hover-color);
   }
 
   .item.active {
-    color: #fff;
+    color: var(--theme1);
   }
 
   button{
@@ -176,14 +176,14 @@
     height: 100%;
     top: 0;
     z-index: 0;
-    background: #ffffff30;
+    background: var(--nav-animation-bg);
     border-radius: 8px;
     transition: all 0.5s ease;
   }
 
   @media (min-width: 1200px) {
     .item:hover {
-      background: #ffffff10;
+      background: var(--nav-item-hover-bg);
     }
   }
 </style>

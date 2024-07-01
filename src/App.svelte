@@ -28,7 +28,7 @@
       effect: "creative",
       creativeEffect: {
         prev: {
-          translate: [0, 0, -400],
+          translate: [0, 0, -200],
         },
         next: {
           translate: ["100%", 0, 0],
@@ -46,7 +46,7 @@
     window.addEventListener("popstate", () => {
       path = window.location.pathname.split("/")[1];
       navigateToIndex = slides.indexOf(path);
-      swiper.slideTo(navigateToIndex, 0);
+      swiper.slideTo(navigateToIndex);
     });
   });
 
@@ -77,22 +77,29 @@
   .swiper {
     width: 100dvw;
     width: 100vw;
-    /* max-height: calc(100% - 33px);
-    max-height: calc(100dvh - 33px); */
+    max-height: calc(100% - 40px);
+    max-height: calc(100dvh - 40px);
     position: fixed;
     top: 0;
     left: 0;
+    background: var(--theme2);
     /* overflow: auto; */
   }
 
+  .swiper-wrapper {
+    max-height: calc(100% - 40px);
+    max-height: calc(100dvh - 40px);
+    margin-bottom: 40px;
+  }
   .swiper-slide {
     display: flex;
     align-items: center;
     justify-content: center;
     font-size: 22px;
     font-weight: bold;
-    color: #fff;
-    min-height: calc(100dvh - 33px);
+    color: var(--text1);
+    box-shadow: 0 20px 30px 0 rgba(0, 0, 0, 0.1);
+
   }
   .bottom-nav-container {
     position: fixed;
@@ -100,5 +107,6 @@
     left: 0;
     width: 100vw;
     background: #000;
+    z-index: 10;
   }
 </style>
