@@ -1,0 +1,25 @@
+projects:
+  - title: Project A
+    month_year: January 2023
+    categories:
+      - Web Development
+      - UX/UI Design
+    image_link: /images/project_a.jpg
+    description: |
+      Project A description goes here. This could include details about the project, technologies used, challenges overcome, etc.
+  
+  - title: Project B
+    month_year: March 2023
+    categories:
+      - Mobile App Development
+    image_link: /images/project_b.jpg
+    description: |
+      Project B description goes here. Describe the objectives, outcomes, and any significant features or innovations.
+  
+  - title: Project C
+    month_year: May 2023
+    categories:
+      - Data Analysis
+    image_link: /images/project_c.jpg
+    description: |
+      Project C description goes here. Highlight the data analyzed, methods used, and insights gained from the analysis.

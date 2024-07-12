@@ -10,13 +10,13 @@
   import Projects from "./pages/Projects.svelte";
   import Contact from "./pages/Contact.svelte";
   import BottomNav from "./componets/nav/bottomNav/BottomNav.svelte";
+  import { functionStore } from "./stores/functionStore";
 
   let swiper;
   let currentSlideIndex = 0;
   let navigateToIndex = 0;
 
   let slides;
-
 
   onMount(() => {
     let path = window.location.pathname.split("/")[1];
@@ -34,6 +34,8 @@
           translate: ["100%", 0, 0],
         },
       },
+      // simulateTouch: false,
+      touchEventsTarget: "container",
     });
 
     swiper.on("slideChange", () => {
@@ -48,11 +50,22 @@
       navigateToIndex = slides.indexOf(path);
       swiper.slideTo(navigateToIndex);
     });
+
   });
 
   function goToSlide() {
     swiper.slideTo(navigateToIndex);
   }
+
+  function navigateToHome() {
+    swiper.slideTo(0);
+  }
+
+  function toggleSimulateTouch(params) {
+    swiper.simulateTouch = false;
+  }
+
+  functionStore.set(navigateToHome);
 </script>
 
 <div class="swiper">
@@ -99,7 +112,6 @@
     font-weight: bold;
     color: var(--text1);
     box-shadow: 0 20px 30px 0 rgba(0, 0, 0, 0.1);
-
   }
   .bottom-nav-container {
     position: fixed;
