@@ -1,8 +1,17 @@
 <script>
   import Footer from "../componets/Footer.svelte";
+  import { createEventDispatcher } from 'svelte';
+
+
+const dispatch = createEventDispatcher();
+
+function navigateHome() {
+  dispatch('navigateHome');
+}
 
 </script>
-<main class="home">
+
+<main class="home" id="home-page">
   <div class="wrapper-main">
     <header>
       <!-- Header container -->
@@ -21,8 +30,7 @@
           <h1>Abishek C P</h1>
           <p>
             <strong
-              ><span id="age">(21),</span> Freelance Developer, Looking forward to
-              help businesses with custom coded websites & related solutions.</strong
+              ><span id="age">(21),</span> Aspiring software developer with Hands-on knowledge in Full-Stack, Data Science and Android Development</strong
             >
           </p>
           <!-- Header links section -->
@@ -65,62 +73,21 @@
             </div>
 
             <!-- Login section -->
-            <div class="login">
+            <!-- <div class="login">
               <p class="cmt">//Login to this website..</p>
               <div class="flex jcc">
-                <button title="Login to access many features like Guest Book, unlock commenting,..." class="sign-in clickable">Sign in
+                <button
+                  title="Login to access many features like Guest Book, unlock commenting,..."
+                  class="sign-in clickable"
+                  >Sign in
                 </button>
-                
               </div>
-            </div>
+            </div> -->
           </div>
         </div>
       </div>
     </header>
-
-    <aside>
-      <div class="quick-links flex jcc fww">
-        <button type="button" class="clickable">
-          <span class="link"><p>Contact me</p></span>
-        </button>
-        <button type="button" class="clickable">
-          <span class="link">
-            <span class="flex">
-              <p>Resume</p>
-              <p><i class="bx bxs-download"></i></p>
-            </span>
-          </span>
-        </button>
-        <button type="button" class="clickable">
-          <span class="link"><p>Gallery</p></span>
-        </button>
-        <button type="button" class="clickable">
-          <span class="link"><p>Photography</p></span>
-        </button>
-      </div>
-
-      <!-- Top container section -->
-      <div class="top-container">
-        <div class="top-catagories flex fdc">
-          <h5>Top Categories:</h5>
-          <div class="wrapper flex fww jcc">
-            <p>Web Development</p>
-            <p>Front-end-Development</p>
-          </div>
-        </div>
-        <div class="top-labels flex"></div>
-        <h5>Top Labels:</h5>
-        <div class="wrapper flex fww jcc">
-          <p>HTML</p>
-          <p>CSS</p>
-          <p>JS</p>
-          <p>React</p>
-          <p>AWS</p>
-        </div>
-      </div>
-    </aside>
-
-    <Footer/>
+    <Footer element="#home-page" on:navigateHome={navigateHome}/>
   </div>
 </main>
 
@@ -130,11 +97,15 @@
     src: url(./assets/fonts/gnyrwn971.ttf);
   }
 
+  main {
+    height: fit-content;
+    background: var(--paper-bg);
+  }
 
   .wrapper-main {
-    background: var(--paper-bg);
     color: var(--text1);
-    padding: 0vh 10vw;
+    padding: 0vh 10vw 50px;
+    background: var(--paper-bg);
   }
 
   button,
@@ -146,10 +117,8 @@
   }
 
   header .header-container {
-    min-height: 100vh;
-    min-height: 100dvh;
-  font-family: "Gunny Rewritten";
-}
+    font-family: "Gunny Rewritten";
+  }
 
   .header-container {
     flex-direction: column !important;
@@ -209,10 +178,10 @@
   .header-links .login button.sign-in {
     color: #fff;
     text-shadow: 2px 2px 8px --theme0;
-    font-family: 'Poppins', sans-serif;
-    font-size: .85rem !important;
+    font-family: "Poppins", sans-serif;
+    font-size: 0.85rem !important;
     height: fit-content;
-    padding: .25rem 1.2rem;
+    padding: 0.25rem 1.2rem;
   }
 
   .header-links .login button .info p {
@@ -227,47 +196,6 @@
     color: var(--text1);
   }
 
-  .scrollmenu button div {
-    display: inline;
-  }
-
-  aside {
-    margin-top: 5vh;
-  }
-
-  aside button {
-    padding: 0.5rem 0.9rem;
-  }
-
-  aside button p {
-    font-size: 1.2rem;
-    font-weight: bold;
-    text-decoration: none;
-    color: var(--link);
-    margin: 0 0.2rem;
-  }
-
-  .top-container {
-    margin-top: 3vh;
-  }
-
-  .top-container h5 {
-    font-size: 1rem;
-  }
-
-  .top-container .wrapper {
-    padding: 0.5rem 0;
-  }
-
-  .top-container .wrapper p {
-    font-size: 0.85rem;
-    margin: 0.3rem 0.5rem;
-    padding: 0.125rem 1rem;
-    border: 1px solid var(--text1);
-    border-radius: 1.2rem;
-  }
-
-
 
   @media (hover: none) {
     button:hover {
@@ -280,6 +208,11 @@
       flex-direction: row !important;
     }
 
+    header .header-container {
+      min-height: 100vh;
+      min-height: 100dvh;
+    }
+
     header img {
       padding: 2vh 0 0;
     }
@@ -288,14 +221,6 @@
       min-width: 40vw;
     }
 
-    .top-container h5 {
-      text-align: center;
-      font-size: 1.25rem;
-    }
-
-    .top-container .wrapper {
-      margin-bottom: 5vh;
-    }
 
     header h1 {
       font-size: 2.75rem;
@@ -309,17 +234,9 @@
       font-size: 1.5625rem;
     }
 
-
     .header-links .login button .info p {
       font-size: 1.25rem;
     }
 
-    aside button p {
-      font-size: 1.5rem;
-    }
-
-    .top-container .wrapper p {
-      font-size: 1.0625rem;
-    }
   }
 </style>

@@ -1,16 +1,256 @@
-<main>
-    <div class="page-root">
-        <p>Blogs Page</p>
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nobis dolorum, esse autem neque earum est non aliquid libero saepe in nam, ex repellat sed natus voluptatum reprehenderit deleniti, at animi totam officiis rerum omnis. Rerum voluptate illum harum ducimus omnis provident itaque! Delectus quisquam corrupti error in, minima labore quos id aperiam esse reprehenderit architecto iusto nam, enim tempore, unde atque nemo ex dignissimos inventore neque! Beatae harum sed delectus atque. Atque temporibus unde, molestiae distinctio tenetur, modi ex impedit necessitatibus velit suscipit, odit maiores libero delectus quod aliquam adipisci voluptatum aut dolores repellendus est soluta nisi! Voluptate ullam saepe cupiditate voluptates illum quae officiis aspernatur doloribus! Delectus ex eius iusto. Nesciunt sed voluptate aliquid non debitis laboriosam, adipisci aut? Eos similique delectus libero ratione natus voluptates non accusantium corrupti cumque sit aliquid repellendus, sunt ex dicta reiciendis modi pariatur consequuntur? Iusto explicabo reprehenderit molestiae perspiciatis, necessitatibus consequatur inventore consequuntur incidunt cumque doloremque, accusamus nobis dicta autem quaerat voluptatem est a. Vitae, adipisci odit tempora harum quibusdam consequatur ea assumenda exercitationem labore voluptates enim laborum quod eum corrupti. Maxime distinctio corporis voluptate modi neque, cupiditate debitis doloremque minus facilis ad quo quam nisi sunt earum perspiciatis ab rem. Ab ut tempore dignissimos sit quidem? Blanditiis, reprehenderit in non velit quidem repudiandae inventore repellendus deserunt mollitia. Voluptas molestias porro blanditiis consequatur commodi eaque deleniti alias nobis ad numquam maxime, fugit illum, harum perferendis. Repellendus repellat accusamus assumenda eos beatae iure aliquam, est nisi maxime, ipsum veritatis! Quisquam dignissimos quia aperiam modi, illum, perferendis blanditiis nulla dolorum vitae et, quibusdam error provident at minus! Fuga corrupti illum accusamus dolorem odio voluptate ullam distinctio quaerat consequuntur sunt excepturi, neque sint, libero nemo minus sit commodi a itaque dolor, soluta laudantium labore! Hic pariatur cum minus ab officiis rerum quia id odit incidunt placeat esse dolorum, doloremque similique voluptatum ut facilis inventore voluptate maiores quos unde doloribus praesentium labore odio ipsum! Debitis voluptate maiores quo aliquam fugiat, rerum optio voluptatum corporis quisquam iure. Quisquam cum optio minus beatae molestiae quod ex numquam ratione deleniti? Odit id illum maiores, maxime illo consequatur accusamus ab debitis quo iusto magni explicabo nostrum ut officiis eum ratione error. Est ipsam beatae voluptas ipsum fuga accusamus laboriosam omnis, quibusdam, in numquam dolor similique aspernatur quis. Nobis velit minus magnam praesentium laborum nesciunt omnis dicta, ullam, maiores aliquid odit consequatur! Laborum, ipsam eaque assumenda, rerum alias sunt libero temporibus sapiente vitae veritatis, itaque officia doloremque quisquam aspernatur. Expedita sunt dolores atque corporis inventore provident quae a. Ducimus quidem excepturi delectus, consectetur vitae expedita quibusdam. Saepe veniam quasi error minus commodi consequatur corporis iure, iste omnis voluptas ea nisi cum quo sequi? Saepe perferendis sit esse nam doloremque voluptatibus, nobis commodi at alias voluptatum nesciunt dolor eius! Vero laborum modi fugiat labore, quae facere unde libero accusantium vitae corporis, temporibus aliquam enim alias deserunt quod accusamus non et maxime. Perspiciatis cumque nesciunt delectus eaque porro deserunt quas excepturi commodi rem sunt corporis culpa esse labore placeat, magnam enim aperiam et quis repudiandae. Porro ullam iure doloremque molestiae atque unde. Dolores placeat hic suscipit tempore asperiores deserunt modi harum doloribus pariatur ullam, veritatis iste repellat consequatur earum inventore vel adipisci eius error sunt! Doloremque suscipit, laborum repudiandae modi cum ipsa molestiae cupiditate doloribus placeat. Repudiandae molestias nam cumque accusamus pariatur assumenda atque magni laboriosam, explicabo non, possimus eligendi repellendus ullam maxime totam natus id. Distinctio iusto nesciunt aliquid repellat expedita laboriosam obcaecati, et laborum atque nemo, quis deserunt quam soluta eos esse. Ipsam, nostrum adipisci. Reprehenderit quasi, esse eveniet iste architecto ratione quis velit facere tempora autem, adipisci at provident non dolores debitis obcaecati molestiae nostrum natus. Placeat obcaecati praesentium, eveniet, tempore cumque quam autem dolore, tenetur error magnam magni sit molestiae itaque consectetur sapiente quidem! Ducimus maiores, nobis adipisci enim impedit consectetur modi sed doloremque laudantium esse voluptatum dolor suscipit beatae deleniti explicabo sequi. Culpa ipsam quam accusamus provident ipsum officiis cupiditate repellendus perspiciatis veritatis eaque? Nemo vero, officiis magnam quo, fugit saepe non deleniti cupiditate iste vel sapiente itaque soluta perspiciatis assumenda recusandae praesentium libero fuga dolorem. Consectetur vel consequatur est dolorem dolor corrupti id, mollitia voluptatibus neque rem! Id quisquam temporibus, repellendus quam iure eveniet sint tenetur perferendis nesciunt architecto, nemo suscipit, dolorem animi earum! Harum iure odit officiis veritatis ut ratione maiores error repellendus animi pariatur aut, facilis earum hic! Magnam assumenda exercitationem quam aliquam aut illum vel a esse recusandae voluptatum laboriosam, nam voluptatibus commodi veritatis tenetur vero? Laborum facilis beatae asperiores minima amet mollitia harum totam placeat ad nam doloremque iusto ex, vitae quos quae facere, corporis eos deleniti earum molestiae, illo id debitis perferendis quidem. Natus nostrum quae labore recusandae repellendus tenetur eius reiciendis laborum vero placeat ipsa, fugiat, aliquam sit veritatis expedita dolorem quia cumque earum dolor qui sint molestias quis consequatur! Amet perspiciatis in eius similique adipisci voluptate soluta, cum sed pariatur molestias iusto ex? Omnis reiciendis culpa blanditiis officia? Placeat laborum facilis accusamus quia neque voluptate qui perferendis minima, rem, odio nihil amet sit saepe nemo sint sunt quod repellendus sequi cupiditate? Voluptate earum deleniti aliquid magni sed culpa similique modi inventore cum saepe eveniet commodi quibusdam, distinctio soluta veritatis consectetur! Eligendi aliquam qui ut autem, quos placeat minus voluptatibus, obcaecati vero, nostrum dignissimos minima. Ipsam officia vel ea! Excepturi laudantium minima, suscipit animi placeat magnam fugiat eius officiis numquam consectetur vitae illum quisquam, quae cum reprehenderit aliquid beatae. Debitis sunt, ratione, quis sint consequuntur libero ex, officiis eius pariatur expedita maxime vitae autem quos odit ipsa fugit velit ut doloremque nesciunt. Explicabo corporis ipsam quia rem aperiam consequuntur quae praesentium, sequi maxime nemo? Consectetur, iure. Cupiditate quam, corrupti maiores earum a adipisci ad minima impedit minus, assumenda veniam amet tenetur aliquam? Praesentium, sapiente. Aliquid nisi ratione facere voluptatum id ut rem, modi dolore, excepturi dolores ex, fugiat velit voluptatem. Facere architecto dolores suscipit odio aspernatur, numquam excepturi fuga, unde distinctio veritatis repellendus minima sint eaque itaque quidem mollitia veniam quo consectetur aliquam dolorem amet alias molestiae neque. Accusantium exercitationem atque cum!
-
+<!-- <script>
+    import Footer from "../componets/Footer.svelte";
+    import { createEventDispatcher } from "svelte";
+  
+    const dispatch = createEventDispatcher();
+  
+    function navigateHome() {
+      dispatch("navigateHome");
+    }
+  
+    let experiences = [
+      {
+        id: 1,
+        title: "Student Director - Technical Operations",
+        organization: "Association of Computer Association, CEG",
+        date: "May. 2024 - Present",
+        description: `As a Project Lead, my responsibility was to oversee and maintain all
+            the codebase of one of Hyperfury's core offerings. Typescript, Rust,
+            Python were used in the infrastructure. We utilized NextJS with the
+            "T-3 stack" - ensuring developer productivity as well as a bug-free
+            typesafe codebase.`,
+        expanded: false, // To track if description is expanded or not
+      },
+      // Add more experience objects as needed
+    ];
+  
+    function toggleDescription(id) {
+      experiences = experiences.map((exp) => {
+        if (exp.id === id) {
+          return { ...exp, expanded: !exp.expanded };
+        } else {
+          return exp;
+        }
+      });
+    }
+  
+    // Function to check if description exceeds certain height
+    function shouldShowReadMore(description) {
+      // Calculate height based on content
+      let descriptionElement = document.createElement("div");
+      descriptionElement.innerHTML = description;
+      descriptionElement.style.position = "absolute";
+      descriptionElement.style.visibility = "hidden";
+      descriptionElement.style.height = "auto";
+      descriptionElement.style.width = "555px"; // Width of your description area
+      descriptionElement.style.whiteSpace = "nowrap";
+      descriptionElement.style.overflow = "hidden";
+      descriptionElement.style.fontSize = "16px"; // Adjust as needed
+  
+      document.body.appendChild(descriptionElement);
+      let isOverflown = descriptionElement.scrollHeight > descriptionElement.clientHeight;
+      document.body.removeChild(descriptionElement);
+  
+      return isOverflown;
+    }
+  </script>
+  
+  <main>
+    <div class="page-root" id="about-page">
+      <section>
+        <h2>Hi.!</h2>
+        <h1>I'm Abishek</h1>
+        <br />
+        <p>
+          Born in the serene town of Kodai(kanal) Road, my journey into the realm
+          of technology commenced with a deep-seated curiosity and a quest for
+          knowledge. Pursuing a Master's in Computer Applications at College of
+          Engineering Guindy (Anna University - Guindy Campus), I immersed myself
+          in the intricacies of programming languages and database systems,
+          cultivating a profound interest in algorithmic design and data science
+          applications. My academic voyage also included a solid foundation in
+          Mathematics at The American College, Madurai, where I developed
+          analytical thinking and problem-solving abilities. As Student Director
+          of Technical Operations at Association of Computer Association, CEG, I
+          navigated transformative roles, spearheading full-stack development and
+          cloud deployments. Fueled by a relentless passion for innovation, I
+          strive to carve a meaningful path as a dynamic software developer in
+          today's ever-evolving tech landscape.
+        </p>
+        <br />
+        <p>
+          I embrace a deep belief in the potential of humanity, which fuels my
+          interest in OpenSource Projects.
+        </p>
+        <br />
+        <p>
+          I extend my passions into the realms of photography, travel, and
+          gardening, each offering a canvas for creativity and a journey of
+          discovery. Alongside these, I delve into topics such as economics, and
+          philosophy, broadening my understanding and perspective on the world we
+          live in.
+        </p>
+        <br />
+        <hr />
+      </section>
+      <section class="experience-wrapper">
+        <h2>Experience</h2>
+        <br />
+  
+        {#each experiences as experience}
+          <div class="experience">
+            <img
+              src="/assets/images/about/aca_logo.jpg"
+              alt="ACA Logo"
+              class="experience-logo"
+            />
+            <div class="exp-date">{experience.date}</div>
+            <h3>{experience.title}</h3>
+            <h4>{experience.organization}</h4>
+            <p
+              class="description"
+              style="display: {experience.expanded ? 'block' : '-webkit-box'}; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;"
+            >
+              {experience.description}
+            </p>
+            {#if shouldShowReadMore(experience.description)}
+              <span
+                class="read-more clickable"
+                on:click={() => toggleDescription(experience.id)}
+              >
+                {experience.expanded ? "Read less" : "Read more"}
+              </span>
+            {/if}
+          </div>
+        {/each}
+      </section>
+      <section class="alma-mater-wrapper">
+        <h2>Alma Mater</h2>
+        <br />
+        <div class="flex fdc aic" style="max-width: 555px;margin: 0 auto">
+          <div class="alma-mater flex jcsb w100">
+            <div class="alma-logo">
+              <img
+                src="/assets/images/about/ceg_logo.jpeg"
+                alt="College of Engineering Guindy Logo"
+              />
+            </div>
+            <div class="">
+              <h3>College of Engineering Guindy, Chennai</h3>
+              <h4>Master of Computer Applications</h4>
+              <p>Aug. 2023 - May. 2025</p>
+            </div>
+          </div>
+          <div class="alma-mater flex jcsb w100">
+            <div class="alma-logo">
+              <img
+                src="/assets/images/about/ac_logo.png"
+                alt="The American College Logo"
+              />
+            </div>
+            <div class="alma-content">
+              <h3>The American College, Madurai</h3>
+              <h4>Bachelor of Mathematics</h4>
+              <p>Sept. 2020 - May. 2023</p>
+            </div>
+          </div>
+          <div class="alma-mater flex jcsb w100">
+            <div class="alma-logo">
+              <img
+                src="/assets/images/about/msp_logo.jpg"
+                alt="MSP Solai Nadar Mem. Hr. Sec. School Logo"
+              />
+            </div>
+            <div class="alma-content">
+              <h3>MSP Solai Nadar Mem. Hr. Sec. School, Dindigul</h3>
+              <h4>Higher Secondary Schooling (Biology, PCM)</h4>
+              <p>Jun. 2018 - Mar. 2020</p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <Footer element="#about-page" on:navigateHome={navigateHome} />
     </div>
-</main>
-<style>
-main{
-    min-height: 100%;
-    min-height: 100dvh;
-    width: 100%;
-    overflow-x: hidden;
-    background: var(--paper-bg);
-}
-</style>
+  </main>
+  
+  <style>
+    section {
+      margin-bottom: 3.5rem;
+    }
+    .experience {
+      padding-left: 48px;
+      margin-top: 1.4rem;
+      position: relative;
+    }
+  
+    .experience::before {
+      content: "";
+      position: absolute;
+      left: 20px;
+      top: 0;
+      bottom: 0;
+      width: 1.5px;
+      background-color: #ccc;
+    }
+  
+    .experience-logo {
+      position: absolute;
+      border: 0.2px solid #ccc;
+      left: 5px;
+      top: 0;
+      width: 30px;
+      height: 30px;
+      border-radius: 50%;
+    }
+  
+    .exp-date {
+      font-weight: bold;
+      color: #555;
+    }
+  
+    h3 {
+      margin: 5px 0;
+      font-size: 1.2em;
+    }
+  
+    h4 {
+      margin: 5px 0;
+      font-weight: normal;
+      color: #888;
+    }
+  
+    .description {
+      margin: 10px 0;
+      color: #333;
+    }
+  
+    .read-more {
+      color: #0066cc;
+      cursor: pointer;
+      display: block;
+      margin-top: 5px;
+    }
+  
+    .read-more:hover {
+      text-decoration: underline;
+    }
+  
+    /* alma */
+    .alma-mater {
+      margin-top: 1.4rem;
+    }
+    .alma-mater:nth-child(even) {
+      flex-direction: row-reverse;
+    }
+    .alma-logo {
+      width: 100px;
+      height: 100px;
+      border-radius: 10px;
+    }
+    .alma-mater:nth-child(odd) .alma-logo {
+      margin-right: 5vw;
+    }
+    .alma-mater:nth-child(even) .alma-logo {
+      margin-left: 5vw;
+   
+   -->

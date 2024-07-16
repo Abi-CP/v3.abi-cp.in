@@ -14,7 +14,7 @@
     { id: "overview", label: "Overview", width: 100 },
     { id: "about", label: "About Me", width: 110 },
     { id: "projects", label: "Projects", width: 120 },
-    { id: "blogs", label: "Blogs", width: 80 },
+    // { id: "blogs", label: "Blogs", width: 80 },
     { id: "contact", label: "Contact", width: 100 },
   ];
 

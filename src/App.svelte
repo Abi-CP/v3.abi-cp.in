@@ -20,7 +20,8 @@
 
   onMount(() => {
     let path = window.location.pathname.split("/")[1];
-    slides = ["/", "about", "projects", "blogs", "contact"];
+    // slides = ["/", "about", "projects", "blogs", "contact"];
+    slides = ["/", "about", "projects", "contact"];
     navigateToIndex = slides.indexOf(path);
 
     swiper = new Swiper(".swiper", {
@@ -57,7 +58,7 @@
     swiper.slideTo(navigateToIndex);
   }
 
-  function navigateToHome() {
+  function navigateHome() {
     swiper.slideTo(0);
   }
 
@@ -65,16 +66,16 @@
     swiper.simulateTouch = false;
   }
 
-  functionStore.set(navigateToHome);
+  // functionStore.set(navigateToHome);
 </script>
 
 <div class="swiper">
   <div class="swiper-wrapper">
-    <div class="swiper-slide"><Home /></div>
-    <div class="swiper-slide"><About /></div>
-    <div class="swiper-slide"><Projects /></div>
-    <div class="swiper-slide"><Blogs /></div>
-    <div class="swiper-slide"><Contact /></div>
+    <div class="swiper-slide"><Home on:navigateHome={navigateHome}/></div>
+    <div class="swiper-slide"><About on:navigateHome={navigateHome}/></div>
+    <div class="swiper-slide"><Projects on:navigateHome={navigateHome}/></div>
+    <!-- <div class="swiper-slide"><Blogs /></div> -->
+    <div class="swiper-slide"><Contact on:navigateHome={navigateHome}/></div>
   </div>
 </div>
 
