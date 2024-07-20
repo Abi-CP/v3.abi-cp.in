@@ -108,7 +108,7 @@ robust functionality, optimal performance, and scalability for registration proc
       {#each experiences as experience}
         <div class="experience">
           <img
-            src="/assets/images/about/aca_logo.jpg"
+            src="/res/images/about/aca_logo.jpg"
             alt="ACA Logo"
             class="experience-logo"
           />
@@ -125,6 +125,8 @@ robust functionality, optimal performance, and scalability for registration proc
             <Remark content={experience.description} />
           </p>
           {#if shouldShowReadMore(experience.description)}
+            <!-- svelte-ignore a11y-click-events-have-key-events -->
+            <!-- svelte-ignore a11y-no-static-element-interactions -->
             <span
               class="read-more clickable"
               on:click={() => toggleDescription(experience.id)}
@@ -142,7 +144,7 @@ robust functionality, optimal performance, and scalability for registration proc
         <div class="alma-mater flex jcsb w100">
           <div class="alma-logo">
             <img
-              src="/assets/images/about/ceg_logo.jpeg"
+              src="/res/images/about/ceg_logo.jpeg"
               alt="College of Engineering Guindy Logo"
             />
           </div>
@@ -155,7 +157,7 @@ robust functionality, optimal performance, and scalability for registration proc
         <div class="alma-mater flex jcsb w100">
           <div class="alma-logo">
             <img
-              src="/assets/images/about/ac_logo.png"
+              src="/res/images/about/ac_logo.png"
               alt="The American College Logo"
             />
           </div>
@@ -168,7 +170,7 @@ robust functionality, optimal performance, and scalability for registration proc
         <div class="alma-mater flex jcsb w100">
           <div class="alma-logo">
             <img
-              src="/assets/images/about/msp_logo.jpg"
+              src="/res/images/about/msp_logo.jpg"
               alt="MSP Solai Nadar Mem. Hr. Sec. School Logo"
             />
           </div>
@@ -189,7 +191,7 @@ robust functionality, optimal performance, and scalability for registration proc
     margin-bottom: 3.5rem;
   }
   .experience {
-    padding-left: 48px;
+    padding-left: 70px;
     margin-top: 1.4rem;
     position: relative;
   }
@@ -197,7 +199,7 @@ robust functionality, optimal performance, and scalability for registration proc
   .experience::before {
     content: "";
     position: absolute;
-    left: 20px;
+    left: 28px;
     top: 0;
     bottom: 0;
     width: 1.5px;
@@ -209,8 +211,8 @@ robust functionality, optimal performance, and scalability for registration proc
     border: 0.2px solid #ccc;
     left: 5px;
     top: 0;
-    width: 30px;
-    height: 30px;
+    width: 48px;
+    height: 48px;
     border-radius: 50%;
   }
 
@@ -244,7 +246,7 @@ robust functionality, optimal performance, and scalability for registration proc
     color: #0066cc;
     cursor: pointer;
     display: block;
-    margin-top: 5px;
+    margin-top: -5px;
   }
 
   .read-more:hover {

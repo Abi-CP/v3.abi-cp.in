@@ -62,7 +62,8 @@
 
 <main>
   <div class="page-root flex fdc aic" id="projects-page">
-    <h1 style="margin-right: auto;margin-bottom: 2rem">My Projects</h1>
+    <h1 style="margin-right: auto;margin-bottom: .5rem">Projects</h1>
+    <h2>&nbsp;--- &nbsp; My Projects</h2>
     <div class="container flex jcc">
       {#if projects}
         {#each projects as project (project.id)}
@@ -108,6 +109,8 @@
           </div>
         {/each}
       {/if}
+      
+      <!-- <h2>Public Contributions</h2> -->
     </div>
 
     <Footer element="#projects-page" on:navigateHome={navigateHome} />
@@ -177,6 +180,11 @@
     border: 0.5px solid #000;
     border-radius: 25px;
     margin: 0.25rem 0.5rem;
+  }
+
+  h2{
+width: 100%;
+margin: 1.5rem 0 .7rem;
   }
 
   /* max */

@@ -1,22 +1,49 @@
-# - id: 1
-#   title: TANCET 2024 - Mock Test
-#   dp: assets/images/abi_splash.png
-#   date: January 2023
-#   description: >
-#     Project A description goes here. This could include details about
-#     the project, technologies used, challenges overcome, etc.
-#   tags:
-#     - Web Development
-#     - UX/UI Design
-# # Add more projects as needed
+- id: 1
+  title: Niral '24 - Website
+  dp: res/images/abi_splash.png
+  date: May 2024
+  description: >
+    Developed a Full Stack Website for NIRAL 2024, the National Level Symposium of ACACEG.
+  tags:
+    - Live Project
+    - Full-Stack
 
-# - id: 2
-#   title: TANCET 2024 - Mock Test
-#   dp: assets/images/abi_splash.png
-#   date: January 2023
-#   description: >
-#     Project A description goes here. This could include details about
-#     the project, technologies used, challenges overcome, etc.
-#   tags:
-#     - Open-Source
-# # Add more projects as needed
+- id: 2
+  title: TANCET 2024 Mock Test
+  dp: res/images/abi_splash.png
+  date: March 2024
+  description: >
+    Developed a Full Stack Website for conducting a mock test for TANCET 2024 Entrance Exam. 
+    Around 400 candidates registered.
+  tags:
+    - Open-Source
+    - Full-Stack
+
+- id: 3
+  title: Busly - Bus Booking App
+  dp: res/images/abi_splash.png
+  date: December 2023
+  description: >
+    Busly is a bus booking app that helps users book and manage their trips.
+  tags:
+    - Course Project
+    - Full-Stack
+
+- id: 4
+  title: SocioSOS - Emergency Help App
+  dp: res/images/abi_splash.png
+  date: June 2024
+  description: >
+    Social SOS is an Android app that was intended to help people in emergency. It was developed in Java with Android Studio.
+  tags:
+    - Course Project
+    - Android
+
+- id: 5
+  title: PreSchool Website
+  dp: res/images/abi_splash.png
+  date: August 2023
+  description: >
+    The PreSchool Website was developed using HTML and CSS.
+  tags:
+    - Front-End

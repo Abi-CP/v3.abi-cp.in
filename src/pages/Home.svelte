@@ -1,14 +1,12 @@
 <script>
   import Footer from "../componets/Footer.svelte";
-  import { createEventDispatcher } from 'svelte';
+  import { createEventDispatcher } from "svelte";
 
+  const dispatch = createEventDispatcher();
 
-const dispatch = createEventDispatcher();
-
-function navigateHome() {
-  dispatch('navigateHome');
-}
-
+  function navigateHome() {
+    dispatch("navigateHome");
+  }
 </script>
 
 <main class="home" id="home-page">
@@ -20,7 +18,7 @@ function navigateHome() {
         <div class="img flex fdr aic">
           <img
             id="dp"
-            src="assets/images/abi_splash.png"
+            src="res/images/abi_splash.png"
             alt="Abi CP"
             draggable="false"
           />
@@ -30,7 +28,8 @@ function navigateHome() {
           <h1>Abishek C P</h1>
           <p>
             <strong
-              ><span id="age">(21),</span> Aspiring software developer with Hands-on knowledge in Full-Stack, Data Science and Android Development</strong
+              ><span id="age">(21),</span> Aspiring software developer with Hands-on
+              knowledge in Full-Stack, Android Development and Data Science.</strong
             >
           </p>
           <!-- Header links section -->
@@ -87,16 +86,11 @@ function navigateHome() {
         </div>
       </div>
     </header>
-    <Footer element="#home-page" on:navigateHome={navigateHome}/>
+    <Footer element="#home-page" on:navigateHome={navigateHome} />
   </div>
 </main>
 
 <style>
-  @font-face {
-    font-family: "Gunny Rewritten";
-    src: url(./assets/fonts/gnyrwn971.ttf);
-  }
-
   main {
     height: fit-content;
     background: var(--paper-bg);
@@ -170,7 +164,7 @@ function navigateHome() {
   }
 
   .header-links button.sign-in {
-    background-image: url(assets/images/button_bg.jpg);
+    background-image: url(res/images/button_bg.jpg);
     border: 2px solid --text2;
     border-radius: 0.25rem;
   }
@@ -196,7 +190,6 @@ function navigateHome() {
     color: var(--text1);
   }
 
-
   @media (hover: none) {
     button:hover {
       filter: brightness(100%);
@@ -221,7 +214,6 @@ function navigateHome() {
       min-width: 40vw;
     }
 
-
     header h1 {
       font-size: 2.75rem;
     }
@@ -237,6 +229,5 @@ function navigateHome() {
     .header-links .login button .info p {
       font-size: 1.25rem;
     }
-
   }
 </style>

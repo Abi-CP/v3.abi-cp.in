@@ -69,6 +69,8 @@
   // functionStore.set(navigateToHome);
 </script>
 
+<a href="http://abi-cp.in" class="head-link clickable">abi c.p</a>
+
 <div class="swiper">
   <div class="swiper-wrapper">
     <div class="swiper-slide"><Home on:navigateHome={navigateHome}/></div>
@@ -88,6 +90,22 @@
 </div>
 
 <style>
+  .head-link {
+    text-decoration: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: .8rem 1.2rem;
+    font-size: 1.8rem;
+    font-weight: 700;
+    color:  rgb(0, 123, 255);
+    color: var(--link);
+    z-index: 1000;
+    /* make radial smooth blur effect */
+    backdrop-filter: blur(2px);
+    font-family: 'Gunny Rewritten';
+  }
   .swiper {
     width: 100dvw;
     width: 100vw;
@@ -121,5 +139,11 @@
     width: 100vw;
     background: #000;
     z-index: 10;
+  }
+
+  @media only screen and (min-width: 500px) {
+    .head-link{
+      padding-left: 7vw;
+    }
   }
 </style>

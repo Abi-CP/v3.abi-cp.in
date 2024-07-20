@@ -8,6 +8,7 @@
 
   function navigateHome() {
     dispatch("navigateHome");
+    navigate("/");
   }
 
   // let navigateHome = $functionStore.navigateHome;
@@ -31,9 +32,10 @@
       >
     </p>
     <p style="font-size: 1rem;">
+      <span> Take me </span>
       <!-- svelte-ignore a11y-click-events-have-key-events -->
       <!-- svelte-ignore a11y-no-static-element-interactions -->
-      <span> Take me </span><span
+      <span
         class="clickable"
         on:click={navigateHome}
         style="color: var(--link);">Home</span

@@ -100,7 +100,7 @@
         {#each experiences as experience}
           <div class="experience">
             <img
-              src="/assets/images/about/aca_logo.jpg"
+              src="/res/images/about/aca_logo.jpg"
               alt="ACA Logo"
               class="experience-logo"
             />
@@ -131,7 +131,7 @@
           <div class="alma-mater flex jcsb w100">
             <div class="alma-logo">
               <img
-                src="/assets/images/about/ceg_logo.jpeg"
+                src="/res/images/about/ceg_logo.jpeg"
                 alt="College of Engineering Guindy Logo"
               />
             </div>
@@ -144,7 +144,7 @@
           <div class="alma-mater flex jcsb w100">
             <div class="alma-logo">
               <img
-                src="/assets/images/about/ac_logo.png"
+                src="/res/images/about/ac_logo.png"
                 alt="The American College Logo"
               />
             </div>
@@ -157,7 +157,7 @@
           <div class="alma-mater flex jcsb w100">
             <div class="alma-logo">
               <img
-                src="/assets/images/about/msp_logo.jpg"
+                src="/res/images/about/msp_logo.jpg"
                 alt="MSP Solai Nadar Mem. Hr. Sec. School Logo"
               />
             </div>

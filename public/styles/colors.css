@@ -6,7 +6,7 @@
   --text2-dark: #505867;
   --text3-light: #1d2bc7;
   --text3-dark: #1a7ce8;
-              --theme0-light: #000000;
+  --theme0-light: #000000;
   --theme0-dark: #ffffff;
   --theme1-light: #ffffff;
   --theme1-dark: #000000;
@@ -28,8 +28,8 @@
   --nav-item-hover-bg-light: #ffffff05;
   --nav-animation-bg-light: #ffffff30;
 
-  --paper-bg-light: url('../assets/images/white_dotted_paper_sqr_bg.jpg');
-  --paper-bg-dark: url('../assets/images/white_dotted_paper_sqr_bg_dark.jpg');
+  --paper-bg-light: url('../res/images/white_dotted_paper_sqr_bg.jpg');
+  --paper-bg-dark: url('../res/images/white_dotted_paper_sqr_bg_dark.jpg');
 
   --text1: var(--text1-light);
   --text2: var(--text2-light);
