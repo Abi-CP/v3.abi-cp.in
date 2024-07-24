@@ -66,8 +66,12 @@
     <h2>&nbsp;--- &nbsp; My Projects</h2>
     <div class="container flex jcc">
       {#if projects}
-        {#each projects as project (project.id)}
-          <div class="project flex fdc jcsb">
+        {#each projects as project}
+          <!-- svelte-ignore a11y-click-events-have-key-events -->
+          <!-- svelte-ignore a11y-no-static-element-interactions -->
+          <div class="project flex fdc jcsb" on:click={()=>{
+            window.open(project.link, "_blank");
+          }}>
             <div class="flex jcsb">
               <div class="flex aic">
                 <img src={contentUrl + project.dp} alt="" class="project-dp" />

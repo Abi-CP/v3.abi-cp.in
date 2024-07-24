@@ -31,7 +31,7 @@
       left += item.width;
     });
 
-    if (windowWidth >= 768) return
+    if (windowWidth >= 768) return;
 
     let selectedLeft = items[currentSlideIndex].left;
     if (nav) {
@@ -50,7 +50,6 @@
         let scrollByAmount = -(windowWidth / 2 - itemWidth / 2 - itemRetcsX);
 
         nav.scrollBy({ left: scrollByAmount, behavior: "smooth" });
-        console.log(scrollByAmount);
       }, 450);
     }
   }
@@ -166,7 +165,7 @@
     color: var(--theme1);
   }
 
-  button{
+  button {
     cursor: pointer;
     -webkit-tap-highlight-color: transparent;
   }

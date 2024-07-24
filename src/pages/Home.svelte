@@ -98,17 +98,18 @@
 
   .wrapper-main {
     color: var(--text1);
-    padding: 0vh 10vw 50px;
+    padding: 0vh 10vw 0px;
     background: var(--paper-bg);
+    /* margin-bottom:60px; */
   }
 
-  button,
+  /* button,
   button:active,
   button:hover {
     outline: none;
     background: transparent;
     border: 1px solid transparent;
-  }
+  } */
 
   header .header-container {
     font-family: "Gunny Rewritten";
@@ -163,20 +164,20 @@
     margin: 2vh 0;
   }
 
-  .header-links button.sign-in {
+  /* .header-links button.sign-in {
     background-image: url(res/images/button_bg.jpg);
     border: 2px solid --text2;
     border-radius: 0.25rem;
-  }
+  } */
 
-  .header-links .login button.sign-in {
+  /* .header-links .login button.sign-in {
     color: #fff;
     text-shadow: 2px 2px 8px --theme0;
     font-family: "Poppins", sans-serif;
     font-size: 0.85rem !important;
     height: fit-content;
     padding: 0.25rem 1.2rem;
-  }
+  } */
 
   .header-links .login button .info p {
     font-size: 1rem;
@@ -191,9 +192,9 @@
   }
 
   @media (hover: none) {
-    button:hover {
+    /* button:hover {
       filter: brightness(100%);
-    }
+    } */
   }
 
   @media screen and (min-width: 1000px) {
@@ -203,7 +204,7 @@
 
     header .header-container {
       min-height: 100vh;
-      min-height: 100dvh;
+      min-height: 100vh;
     }
 
     header img {

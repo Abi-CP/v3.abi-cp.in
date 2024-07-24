@@ -70,25 +70,27 @@ robust functionality, optimal performance, and scalability for registration proc
       <h1>I'm Abishek</h1>
       <br />
       <p>
-        Born in the serene town of Kodai(kanal) Road, my journey into the realm
-        of technology commenced with a deep-seated curiosity and a quest for
-        knowledge. Pursuing a Master's in Computer Applications at College of
-        Engineering Guindy (Anna University - Guindy Campus), I immersed myself
-        in the intricacies of programming languages and database systems,
-        cultivating a profound interest in algorithmic design and data science
-        applications. My academic voyage also included a solid foundation in
-        Mathematics at The American College, Madurai, where I developed
-        analytical thinking and problem-solving abilities. As Student Director
-        of Technical Operations at Association of Computer Association, CEG, I
-        navigated transformative roles, spearheading full-stack development and
-        cloud deployments. Fueled by a relentless passion for innovation, I
-        strive to carve a meaningful path as a dynamic software developer in
-        today's ever-evolving tech landscape.
+        I was born in the peaceful town of Kodai(kanal) Road, where my journey into the
+        world of technology began with a strong curiosity and a thirst for
+        knowledge. I pursued my Master's in Computer Applications at the College
+        of Engineering Guindy (Anna University - Guindy Campus). Here, I
+        immersed myself in programming languages and database systems,
+        developing a keen interest in algorithm design and applications of data
+        science.
+      </p>
+      <p>
+        I also built a solid foundation in Mathematics at The American College,
+        Madurai, which honed my analytical thinking and problem-solving skills.
+        As Student Director of Technical Operations at the Association of
+        Computer Association, CEG, I took on leadership roles in full-stack
+        development and cloud deployments.
       </p>
       <br />
       <p>
-        I embrace a deep belief in the potential of humanity, which fuels my
-        interest in OpenSource Projects.
+        Driven by a passion for innovation, I aspire to make a mark as a dynamic
+        software developer in today's rapidly evolving tech industry. Alongside
+        my professional pursuits, I strongly believe in the potential of
+        humanity, which fuels my interest in Open Source Projects.
       </p>
       <br />
       <p>

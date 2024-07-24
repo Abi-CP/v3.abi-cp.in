@@ -1,3 +1,16 @@
+
+- id: 2
+  title: TANCET 2024 Mock Test
+  dp: res/images/abi_splash.png
+  date: March 2024
+  link: https://github.com/Abi-CP/TANCET
+  description: >
+    Developed a Full Stack Website for conducting a mock test for TANCET 2024 Entrance Exam. 
+    Around 400 candidates registered.
+  tags:
+    - Open-Source
+    - Full-Stack
+
 - id: 1
   title: Niral '24 - Website
   dp: res/images/abi_splash.png
@@ -6,27 +19,6 @@
     Developed a Full Stack Website for NIRAL 2024, the National Level Symposium of ACACEG.
   tags:
     - Live Project
-    - Full-Stack
-
-- id: 2
-  title: TANCET 2024 Mock Test
-  dp: res/images/abi_splash.png
-  date: March 2024
-  description: >
-    Developed a Full Stack Website for conducting a mock test for TANCET 2024 Entrance Exam. 
-    Around 400 candidates registered.
-  tags:
-    - Open-Source
-    - Full-Stack
-
-- id: 3
-  title: Busly - Bus Booking App
-  dp: res/images/abi_splash.png
-  date: December 2023
-  description: >
-    Busly is a bus booking app that helps users book and manage their trips.
-  tags:
-    - Course Project
     - Full-Stack
 
 - id: 4
@@ -38,6 +30,16 @@
   tags:
     - Course Project
     - Android
+
+- id: 3
+  title: Busly - Bus Booking App
+  dp: res/images/abi_splash.png
+  date: December 2023
+  description: >
+    Busly is a bus booking app that helps users book and manage their trips.
+  tags:
+    - Course Project
+    - Full-Stack
 
 - id: 5
   title: PreSchool Website
